@@ -1,0 +1,12 @@
+
+{
+  "devDependencies": {
+    "vercel": "^28.9.0"
+  },
+  "scripts": {
+    "start": "vercel dev",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
